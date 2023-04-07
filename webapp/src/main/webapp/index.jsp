@@ -35,7 +35,7 @@
             <table>
                 <tr>
                     <td>
-                        <img src="Devendra.jpg.jpg" alt="devendra image" width="200" height="200">
+                        <img src="file:///C:/Users/ADMIN/OneDrive/Desktop/profiledata/Devendra.jpg.jpg" alt="devendra image" width="200" height="200">
                     </td>
                     <td>
                         <h3>DEVENDRA GUDELLI</h3>
@@ -101,7 +101,7 @@
             </p>
         </div>
 
-        <!-- Hobbes-->
+        <!-- Hobbies-->
         <div>
             <h2>Hobbies & Interest</h2>
             <ul>
